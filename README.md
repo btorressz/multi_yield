@@ -45,3 +45,7 @@ Stakers holding governance tokens can participate in voting on:
 
 ---
 
+ # 📜 License
+This project is licensed under the MIT License.
+---
+
