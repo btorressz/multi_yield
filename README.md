@@ -28,3 +28,20 @@ MultiYIELD (`multiYIELD`) is a **yield-bearing token protocol** designed to **re
   - **Anti-MEV Measures** (prevents flashbot manipulation)
 
 ---
+
+# 🏛 Governance  
+Stakers holding governance tokens can participate in voting on:  
+- Base reward percentage for traders and liquidity providers (LPs).  
+- Additional reward boosts for long-term liquidity providers.  
+- Adjustments to DAO treasury allocation.
+
+  ---
+  
+# 🛡 Security & MEV Resistance  
+✅ **Pyth Oracle Verification**: Ensures trades execute within valid price ranges.  
+✅ **Flash Loan Prevention**: Implements time-based trade locks to mitigate exploit risks.  
+✅ **Minimum Unique Trader Requirement**: Protects against MEV bot manipulation.  
+✅ **Early Exit Penalty**: Discourages short-term staking purely for rewards.  
+
+---
+
